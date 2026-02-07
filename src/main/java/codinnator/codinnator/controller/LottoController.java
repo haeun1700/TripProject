@@ -1,9 +1,10 @@
 package codinnator.codinnator.controller;
 
+import codinnator.codinnator.model.service.LottoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.ssafy.sample.model.service.LottoService;
+
 
 @Component
 public class LottoController {
