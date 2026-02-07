@@ -16,15 +16,14 @@ public class LottoServiceImpl implements LottoService{
 		this.random = random;
 	}
 
-
-	/**
-     * 로또 번호 6개 List로 반환
-     */
-	public List<Integer> generateNumbers() {
-        return random.ints(1, 46) // 1~45 사이
+    public List<Integer> generateNumbers() {
+        // 2. 숫자를 상수로 교체하는 모습 시연
+        return random.ints(MIN_NUMBER, MAX_NUMBER) 
                      .distinct()
-                     .limit(6)
+                     .limit(SELECT_COUNT)
                      .boxed()
+                     .sorted()
                      .collect(Collectors.toList());
     }
+	
 }
