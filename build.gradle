@@ -1,29 +1,17 @@
-plugins {
-	id 'java'
-	id 'org.springframework.boot' version '4.0.2'
-	id 'io.spring.dependency-management' version '1.1.7'
-}
+아무도치지 말아봐바
+현지- ㅁㄴ;ㅣ아러아니;ㅁ니아아ㅓ라인;ㅁ니ㅏㅇ러ㅏㅇ니;미나어라인;아러ㅏㄴ이;미낭러안;ㅁ니아러아니;미낭러ㅏㄴㅁ;니아러ㅏㅣ;대박인데?
+우리 솔직히 좀 ㄱㅊ한거같은데? ㅇㅈ? ㅇㅈ   다른분들 말점여 
 
-group = 'codinnator'
-version = '0.0.1-SNAPSHOT'
-description = 'Demo project for Spring Boot'
+다른 분들 시연아이디어 있으신분 계시면 말점여~~~~~~~~~
 
-java {
-	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
-	}
-}
+김수미 55555555555555555ㄹㅇㄴㄹㄴㄹㄴㄹㄹㄴㄹㄴㅇㄹㅇ
+하은-
+윤정-안녕하세요. 오
+내현-ㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈ
+규성- ㄴㅇㄹㄴㅇㄹㄴㅇㄻㄹㄴㄹ모너리ㅏ머노리ㅏ 너ㅗㄹ미ㅐㅏㅑ도리ㅏㅁ너 ㄹ;ㅇㄴ롬ㄴㅇ;ㅣ ㅑㅁㄷ';ㅣㄹ마 ㅓ;ㅣㅇㄴ마 럼;내ㅣ'ㅑㄹ ㅓㅁㄴㄷ'ㅔ람넏';ㅣ 랑널'ㅣㅁ나ㅓㄹ'이나 ㅓㅁㄷ내랴ㅓㅁ내ㅣ라어 ㄴ밂ㄴ아ㅓㄹ 'ㅑ9ㅁㄷ저 ㅔ'래ㅑㄴ머에 린엄ㄹ
+;ㅇㄴ러멘대ㅑ러ㅔㅁㄴ야ㅏ 러'ㅣㄴ야라ㅓ ㅁㄴ'ㅐㅑ런ㅁ ㄴㅇㄹㅇㄴㄻㄴㅇㄹㄴㅇ아러덜아너링나러ㅣㅇ나ㅓ리ㅏㅁ니ㅏㄹ
 
-repositories {
-	mavenCentral()
-}
+그래 이지메 시키지말
 
-dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-webmvc'
-	testImplementation 'org.springframework.boot:spring-boot-starter-webmvc-test'
-	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-}
-
-tasks.named('test') {
-	useJUnitPlatform()
-}
+그럼 시연때 5명 다같이 하는걸로???????
+ㅋㅋㅋㅋㅋㅋㅋ
