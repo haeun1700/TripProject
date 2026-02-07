@@ -1,0 +1,19 @@
+package codinnator.codinnator.config;
+
+import java.util.Random;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan(basePackages = "com.ssafy.sample")
+public class AppConfig {
+
+	@Bean
+	public Random random() {
+		return new Random();
+	}
+	
+	
+}
